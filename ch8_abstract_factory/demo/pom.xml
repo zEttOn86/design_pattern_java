@@ -23,7 +23,7 @@
                     <mainClass>Main</mainClass>
                     <arguments>
                     <argument>list.html</argument>
-                    <argument>listfactory.ListFactory</argument>
+                    <argument>divfactory.DivFactory</argument>
                     </arguments>
                 </configuration>
             </plugin>
